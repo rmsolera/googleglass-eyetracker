@@ -47,7 +47,7 @@ Pupil_ratio: 3.0`
 
 * wearscript_playground.html
 
->wearscript_playground.html: shows the html code executed on Google Glass through wearscript App
+	>wearscript_playground.html: shows the html code executed on Google Glass through wearscript App
 to take pictures and send it through the network using Javascript running on a WebView. Just copy and paste the code into http://api.wearscript.com/ and sync the Google Glass using the engine icon at the bottom left corner.
 
 ***Important: wearscript playground is not available anymore through http://api.wearscript.com/. You can run a fork of it in your own server by cloning https://github.com/wearscript/wearscript-playground***
