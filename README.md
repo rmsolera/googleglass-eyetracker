@@ -4,6 +4,8 @@ This is my Senior Project for my computer science degree. It shows the attempt t
 
 The project is a fork of the WearScript Eyetracker project with additional logic written in Python to simulate the movement of the eye based on the images that the eye can see and collected through the Google Glass camera.
 
+![GitHub Logo](/images/project_image.png)
+
 https://wearscript.readthedocs.io/en/latest/eyetracking.html
 
 ## Connection Diagram
